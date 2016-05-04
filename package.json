@@ -1,0 +1,29 @@
+{
+  "name": "gity",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "gity": "./index.js"
+   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yourGithubUserName/gity.git"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "yourGithubUserName",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourGithubUserName/gity/issues"
+  },
+  "homepage": "https://github.com/yourGithubUserName/gity",
+  "dependencies": {
+  }
+}
